@@ -1,17 +1,16 @@
-/* Our CSS file. */
 .container, .content {
-width: 100%;
-}
-.content{
-    display:inline-block;
-}
-.section{
-    width: 39%;
-    display: inline-block;
-}
-.align-top{
-    vertical-align: top;
-}
-.align-middle{
-    vertical-align: middle;
-}
+    width: 100%;
+    }
+    .content{
+        display:inline-block;
+    }
+    .section{
+        width: 49%;
+        display: inline-block;
+    }
+    .align-top{
+        vertical-align: top;
+    }
+    .align-middle{
+        vertical-align:bottom;
+    }
